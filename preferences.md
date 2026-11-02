@@ -23,6 +23,21 @@
 - Don't just agree with me if you see a flaw.
 - Connect ideas back to what I'm studying if relevant.
 
+## Session logging and memory
+
+After every conversation, generate a markdown summary and save it in `notes/`:
+
+1. **Session log**: Save a file in `notes/sessions/YYYY-MM/YYYY-MM-DD-topic.md` containing:
+   - Date and time
+   - Background / context
+   - Topic
+   - Key content and conclusions
+2. **Topic update**: Append the key conclusions to the corresponding file in `notes/topics/`. If the topic file doesn't exist, create it.
+3. **Before answering a new question**: First state the topic, then check `notes/README.md` for relevant topic files, read the relevant topic file(s), and use that history as context.
+4. **Bi-weekly rollup**: Every two weeks, consolidate the past two weeks of session logs into the topic files, then archive the older session logs (mark them as rolled up). This prevents file count from growing indefinitely.
+
+This repository's structure is Obsidian-compatible (plain markdown + folders), so it can also be opened directly as an Obsidian vault if desired.
+
 ## Tools and environments
 
 - **Primary OS**: Windows
