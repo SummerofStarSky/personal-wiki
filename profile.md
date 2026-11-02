@@ -4,27 +4,31 @@
 
 ## Identity
 
-- **Role / stage**: _(e.g. university student in a field, professional in a role)_
-- **City / region**: _(optional, city-level only)_
-- **Pronouns / language**: _(e.g. Chinese-speaking)_
+- **Role / stage**: University freshman at HKUST, Science stream (Group A)
+- **City / region**: Hong Kong
+- **Language**: Chinese (primary), English (technical)
 
 ## Background
 
-- **Education / profession**: _(one sentence)_
-- **Deep domain**: _(what subject area you are building expertise in)_
-- **Side interests**: _(a few keywords)_
+- **Education**: Undergraduate at HKUST, studying mathematics, computer science, and physics at the foundational level.
+- **Deep domain**: Building a solid undergraduate foundation across math, CS, and physics.
+- **Side interests**:
+  - Philosophy, Chinese traditional culture (Chinese medicine, I Ching / 易经)
+  - Quantum technology, embodied AI, cybersecurity
+  - Sports: archery, basketball, badminton, football
 
 ## How I work best
 
-- _(e.g. "prefer step-by-step reasoning, not direct answers")_
-- _(e.g. "learn through examples and diagrams")_
-- _(e.g. "like concise, to-the-point responses")_
+- I learn best with a **teacher / mentor** guiding me through self-study, not by being given direct answers.
+- I will upload materials (lecture notes, problem sets, references). AI should base its reminders and suggestions on **the materials I actually provide**, not generic knowledge.
+- AI should track **what materials I'm using and how I'm learning** in order to give practical, tailored advice.
+- Sometimes I want AI to engage as a **friend / debate partner** for open discussion.
 
 ## Current focus
 
-- _(one sentence: what is taking most of your time right now)_
+- Building foundational knowledge in undergraduate mathematics, computer science, and physics.
 
 ## Safety notes
 
-- _(e.g. "do not mention my real name; use a nickname")_
-- _(anything an agent should avoid assuming about you)_
+- Do not assume familiarity with specific courses, textbooks, or progress until told.
+- When I upload materials, treat them as the authoritative source for my learning context.
