@@ -15,10 +15,12 @@ notes/
 
 ## How this works
 
-1. **After each conversation**, a session log is saved in `sessions/YYYY-MM/`.
-2. Key conclusions are appended to the corresponding file in `topics/`.
-3. Before answering a new question, AI reads the relevant topic file(s) here.
-4. **Every two weeks**, session logs are rolled up into topic files and archived.
+1. 我说「**存档**」时，AI 在 `sessions/YYYY-MM/` 写一份会话记录。
+2. 关键结论追加到 `topics/` 下对应文件；索引见 `topics/_index.md`。
+3. 回答新问题前，AI 先读相关 topic 文件。
+4. 我说「**归并**」时，把最近两周的会话记录合并进 topic 文件，原文件标 `> rolled-up: 日期`。
+
+> 归档由触发词驱动，不在每次对话后自动执行——模型没有时钟，也不会知道会话何时结束。
 
 ## Topic index
 

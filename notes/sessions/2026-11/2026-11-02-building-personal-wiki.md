@@ -1,5 +1,7 @@
 # 2026-11-02: Building the personal-wiki repository
 
+> **2026-11-12 更新**：本记录写于建仓当天。此后工作契约移到独立仓 `agent-contract`，仓库可被公开访问，会话归档改为触发词驱动。以下内容作为历史保留，不代表现状。
+
 - **Date**: 2026-11-02
 - **Background**: User wanted a private GitHub repository to store personal context for AI agents to read.
 - **Topic**: Repository setup and initial profile.
